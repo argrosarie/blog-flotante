@@ -1,0 +1,11 @@
+{
+  "name": "blogflotante",
+  "version": "1.0.0",
+  "description": "blog flotante",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rosarie Sanchez",
+  "license": "MIT"
+}
